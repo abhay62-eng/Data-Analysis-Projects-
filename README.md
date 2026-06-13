@@ -9,6 +9,7 @@ This repository contains multiple data analysis projects using Python, Pandas, N
 | Zomato Restaurant Analysis | Restaurant data analysis and visualization |
 | COVID-19 India Analysis | COVID trends and case analysis in India |
 | IPL Analysis | IPL team and player performance analysis |
+| Titanic Analysis | Titanic survival analysis|
 
 ## Tools & Technologies
 
@@ -22,4 +23,4 @@ This repository contains multiple data analysis projects using Python, Pandas, N
 
 ## Author
 
-Your Name
+Abhay
